@@ -68,7 +68,7 @@ A legal consulting platform, connecting users with lawyers through a robust **La
 - 📧 Email: [info.binarydata@gmail.com](mailto:info.binarydata@gmail.com)
 - 🌐 Portfolio: [binarydata.in](https://www.binarydata.in)
 - 💼 LinkedIn: [LinkedIn Profile]([#](https://www.linkedin.com/in/jagmohankrishan/)) (Add your LinkedIn link if you have one)
-- 🌐 Personal website: [jagmohankrishan.com]([https://jagmohankrishan.com/))
+- 🌐 Personal website: [jagmohankrishan.com]([https://jagmohankrishan.com/)
 
 ---
 
